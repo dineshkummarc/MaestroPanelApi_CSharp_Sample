@@ -1,0 +1,7 @@
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi_Test\bin\Debug\MaestroPanelApi_Test.dll
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi_Test\bin\Debug\MaestroPanelApi_Test.pdb
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi_Test\bin\Debug\MaestroPanelApi.dll
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi_Test\bin\Debug\MaestroPanelApi.pdb
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi_Test\obj\Debug\ResolveAssemblyReference.cache
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi_Test\obj\Debug\MaestroPanelApi_Test.dll
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi_Test\obj\Debug\MaestroPanelApi_Test.pdb

@@ -1,0 +1,5 @@
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi\bin\Debug\MaestroPanelApi.dll
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi\bin\Debug\MaestroPanelApi.pdb
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi\obj\Debug\ResolveAssemblyReference.cache
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi\obj\Debug\MaestroPanelApi.dll
+O:\Projects\MaestroPanelApiConsole_Sample\MaestroPanelApi\obj\Debug\MaestroPanelApi.pdb
